@@ -1,0 +1,16 @@
+
+.box{
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-top: 250px;
+padding-left: 20px;
+background-color: #97FEED;
+display: block;
+box-shadow: 3px 3px 3px 3px gray;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color: #35A29F;
+}
